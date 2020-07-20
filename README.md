@@ -1,6 +1,6 @@
 # React Netflix clone
 
-The project aims to create a clone of the original netflix application with features such as the top banner that shows random favorite movies in the location each time you reload the page. And multiple rows showing different categories of movies/documentaries which can be scrolled horizontally using track pad. Clicking on any tile of the movie, plays a trailer of that movie, which is fetched from youtube using 'youtube react' library. All the data displayed on the app is dynamic fetched from the TMDB API.
+The project aims to create a clone of the original netflix application with features such as the top banner that shows random favorite movies in the location every time you reload the page. And multiple rows showing different categories of movies/documentaries which can be scrolled horizontally using track pad. Clicking on any tile of the movie, plays a trailer of that movie, which is fetched from youtube using 'youtube react' library. All the data displayed on the app is dynamic fetched from the TMDB API.
 
 ## Running application
 
